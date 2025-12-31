@@ -51,6 +51,8 @@ Repo
 
 ---
 ## 📌 **Notes**
+- **Pyaudio supports up to Python 3.13, users with Python 3.14+ will need alternatives.**
 - Works best on Windows (uses os.system("start ...") for app launching).
 - Requires a working microphone for speech recognition.
 - Internet connection needed for API calls (Gemini, Weather, News).
+- One must use their own API keys.
