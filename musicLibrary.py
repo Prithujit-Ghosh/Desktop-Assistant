@@ -1,4 +1,6 @@
 music={
-    "cold":"https://www.youtube.com/watch?v=Vhd6Kc4TZls&list=PLzCxunOM5WFJ7sbHi_9Zwq2xOwtkYeZlx&index=10",
-    "ether":"https://www.youtube.com/watch?v=r6En29azNBA&list=PLzCxunOM5WFJ7sbHi_9Zwq2xOwtkYeZlx&index=11"
+    "Music_Name_1":"Corresponding_URL",
+    "Music_Name_2":"Corresponding_URL",
+    "Music_Name_3":"Corresponding_URL",
+    "Music_Name_4":"Corresponding_URL"
 }
